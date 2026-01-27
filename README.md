@@ -6,3 +6,7 @@
 <div align="center">
   <img src="./pacman.gif" width="400">
 </div>
+
+<div align="center">
+  <img src="./city.gif" width="400">
+</div>
