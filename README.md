@@ -4,9 +4,6 @@
 
 
 <div align="center">
+  <img src="./city1.gif" width="400">
   <img src="./pacman.gif" width="400">
-</div>
-
-<div align="center">
-  <img src="./city.gif" width="400">
 </div>
