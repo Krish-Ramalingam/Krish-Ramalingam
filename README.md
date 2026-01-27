@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<a href="https://github.com/CtorW">
+<a href="https://github.com/Krish-Ramalingam">
 <img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
 </a>
 
