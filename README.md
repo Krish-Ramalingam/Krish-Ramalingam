@@ -18,7 +18,7 @@
 </div>
 <br/>
 <div align="center">
-    <img height="300" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Krish-Ramalingam&layout=compact&langs_count=8&theme=nord"/>
+    <img height="300" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Krish-Ramalingam&langs_count=8&theme=nord"/>
 </div>
 <hr>
 
