@@ -31,3 +31,5 @@
   <h1>About Me</h1>
   I'm a student who likes programming.
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krish-Ramalingam&show_icons=true&theme=radical)
