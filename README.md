@@ -19,6 +19,7 @@
 <br />
 
 <img height="300" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Krish-Ramalingam&layout=compact&langs_count=8&theme=nord"/>
+<hr>
 
 ### Check out my projects below!
 - **[Cascade](https://github.com/Krish-Ramalingam/CascadeV4)**: A dynamic programming language.
