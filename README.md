@@ -24,7 +24,7 @@
 
 ### Check out my projects below!
 
-- **[Cascade](https://github.com/Krish-Ramalingam/CascadeV4)**: A dynamic programming language.
+- **[Cascade](https://github.com/Krish-Ramalingam/CascadeV4)**: A dynamic, temporal-based, programming language. It has a variety of unique features, such as hypervariables, when statements, and once statements.
 
 <hr>
 <div>
