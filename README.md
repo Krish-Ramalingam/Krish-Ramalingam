@@ -10,4 +10,3 @@
 
 <hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-Ramalingam&layout=compact)
