@@ -40,4 +40,4 @@
 <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Krish-Ramalingam&layout=compact&langs_count=8&theme=nord"/>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=ahsan-a&&show_icons=true&theme=nord&line_height=27&v=5" /> -->
 
-### Join my discord server.
+### Check out my projects below!
