@@ -10,3 +10,4 @@
 
 <hr>
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krish-Ramalingam&show_icons=true&theme=tokyonight)
