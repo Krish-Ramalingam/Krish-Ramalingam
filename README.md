@@ -23,4 +23,11 @@
 <hr>
 
 ### Check out my projects below!
+
 - **[Cascade](https://github.com/Krish-Ramalingam/CascadeV4)**: A dynamic programming language.
+
+<hr>
+<div>
+  <h1>About Me</h1>
+  I'm a high school student who likes to program.
+</div>
