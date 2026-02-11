@@ -14,7 +14,7 @@
 - **[Cascade](https://github.com/Krish-Ramalingam/CascadeV4)**: A dynamic programming language.
 
 
-<!-- 
+
 ## **My favourite tools/langs**:
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -26,7 +26,7 @@
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Deno.svg/1200px-Deno.svg.png"></code>
 
 <br />
-
+<!-- 
 ## **Things i'd like to learn and improve on:**
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
