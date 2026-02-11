@@ -32,4 +32,3 @@
   I'm a student who likes programming.
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krish-Ramalingam)](https://github.com/Krish-Ramalingam/github-readme-stats)
