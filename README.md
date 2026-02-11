@@ -29,5 +29,5 @@
 <hr>
 <div>
   <h1>About Me</h1>
-  I'm a student who likes to program.
+  I'm a student who likes programming.
 </div>
