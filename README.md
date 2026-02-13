@@ -32,3 +32,6 @@
   I'm a student who likes programming.
 </div>
 
+<p>
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Krish-Ramalingam&show_icons=true&theme=cobalt&count_private=true"/>
+</p>
